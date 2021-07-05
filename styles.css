@@ -1,0 +1,12 @@
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  #welcome-section{
+      height:100vh;
+  }
+  #navbar{
+      position:fixed;
+      top:0;
+  }
